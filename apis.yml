@@ -7,6 +7,17 @@ description: Barn2Door is a Seattle-based commerce and business-management platf
   direct-to-consumer and wholesale into a single dashboard. Barn2Door connects to partners including
   Mailchimp, QuickBooks Online, Stripe, Avalara, Shippo, Routific, Squarespace, and Facebook, but does
   not publish a public developer API or documentation portal at this time.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
