@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/barn2door/integrations
+- https://n8n.io/integrations/barn2door/
+- https://composio.dev/toolkits/barn2door
+- https://monid.ai/tools/barn2door
+checked:
+- https://composio.dev/toolkits/barn2door
+- https://monid.ai/tools/barn2door
+- https://n8n.io/integrations/barn2door/
+- https://zapier.com/apps/barn2door/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
